@@ -1,3 +1,3 @@
-aiomqtt==0.1.3
+aiomqtt
 Semi-ATE-STDF
 semi-ate-common
